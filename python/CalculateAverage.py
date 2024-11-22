@@ -7,3 +7,9 @@ def find_average(numbers):
 # we first use the len() method to check if the length of the numbers is equal to 0 if it is then we return 0,
 # then we work out the average by using the sum() to workout the summary numbers then we divide it bu the length,
 #Of the numbers saving the output to the variable average which then we return
+
+
+
+#####TASK#####
+#Write a function which calculates the average of the numbers in a given array.
+#Note: Empty arrays should return 0.
