@@ -12,4 +12,6 @@ def boolean_to_string(b):
 
 #####TASK#####
 
-#Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
+#Implement a function which convert the given boolean value into its string representation.
+
+#Note: Only valid inputs will be given.
