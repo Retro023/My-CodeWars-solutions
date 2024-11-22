@@ -11,3 +11,8 @@ def bool_to_word(boolean):
 #we use an if statement to see if the variable boolean is either equal to True and False and then we change,
 #Variable to either Yes for True and No for Flase then  we use an else staement incase the boolean variable is,
 #Not a boolean value
+
+
+
+####TASK#####
+#Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
