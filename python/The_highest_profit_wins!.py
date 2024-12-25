@@ -8,7 +8,7 @@ def min_max(lst):
 # The result to the corresponding values of minimum and maximum. Finally we return both variables,
 # Wrapped in brackets so it returns as a list and not an array
 
-####challenge description ####
+####TASK ####
 
 #Story
 #Ben has a very simple idea to make some profit: he buys something and sells it again. 
